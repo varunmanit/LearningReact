@@ -144,7 +144,7 @@ import name from './lib'
 
 #### JSX
 <img src="https://cdn-images-1.medium.com/max/1800/1*N2KU7pOcwZwKeOi3B-YBLQ.png"><br/>
-JSX is similar to HTML like syntax used by react which is written in javascript file. Check the above example where render mehtod of MyComponent return jsx which can be mix of HTML or component or both.
+JSX is similar to HTML like syntax used by react which is written in javascript file. Check the below example where render method of MyComponent return jsx which can be mix of HTML or component or both.
 
 JSX syntax transpiled into javascript object with transpiler like Babel, check the below example how JSX Elements are transpiled (right side) into javascript while we can directly write the javascript code instead of writting of JSX syntax code but it will increase the complexity and will be harder to maintain <br/>
 <img src="https://cdn-images-1.medium.com/max/1800/1*iEMbKsYd4nCFiZ_yoRJvoA.png" />
